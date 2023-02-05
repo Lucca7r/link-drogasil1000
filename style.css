@@ -51,9 +51,9 @@ ul li a {
   border-radius: 8px;
 
   backdrop-filter: sepia(30%);
-  backdrop-filter: contrast(50%);
+  backdrop-filter: contrast(35%);
   -webkit-backdrop-filter: sepia(30%);
-  -webkit-backdrop-filter: contrast(50%);
+  -webkit-backdrop-filter: contrast(35%);
 
   text-decoration: none;
   font-weight: 500;
